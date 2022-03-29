@@ -1,0 +1,1 @@
+Vous pouvez jouer en appuyant sur une boule puis en lui donnant une direction.
